@@ -1,0 +1,12 @@
+{
+  "name": "Spark Development",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "spark-master",
+  "workspaceFolder": "/opt/spark/scripts",
+  "remoteUser": "root",
+  
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter"
+  ]
+}
